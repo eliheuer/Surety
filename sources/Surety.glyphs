@@ -10,20 +10,6 @@ tag = wght;
 );
 customParameters = (
 {
-name = openTypeGaspRangeRecords;
-value = (
-{
-rangeGaspBehavior = (
-0,
-1,
-2,
-3
-);
-rangeMaxPPEM = 65535;
-}
-);
-},
-{
 name = openTypeHeadFlags;
 value = (
 0,
@@ -61,13 +47,6 @@ value = Surety;
 {
 name = codePageRanges;
 value = (
-);
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
 );
 },
 {
@@ -120,26 +99,6 @@ value = 600;
 {
 name = fsType;
 value = (
-);
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2,
-3,
-5,
-11,
-20,
-31,
-32,
-33,
-35,
-38,
-45,
-60,
-62
 );
 },
 {
@@ -422,6 +381,74 @@ unicode = 193;
 },
 {
 color = 4;
+glyphname = Abreve;
+lastChange = "2023-07-11 07:52:18 +0000";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (140,0);
+ref = breve.case;
+}
+);
+width = 572;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (164,0);
+ref = breve.case;
+}
+);
+width = 711;
+}
+);
+unicode = 258;
+},
+{
+color = 4;
+glyphname = Acircumflex;
+lastChange = "2023-07-11 07:59:29 +0000";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (144,0);
+ref = circumflex.case;
+}
+);
+width = 572;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (114,0);
+ref = circumflex.case;
+}
+);
+width = 711;
+}
+);
+unicode = 194;
+},
+{
+color = 4;
 glyphname = Agrave;
 lastChange = "2023-07-11 05:39:00 +0000";
 layers = (
@@ -457,7 +484,7 @@ unicode = 192;
 {
 color = 5;
 glyphname = a;
-lastChange = "2023-07-11 06:44:44 +0000";
+lastChange = "2023-07-11 07:52:05 +0000";
 layers = (
 {
 anchors = (
@@ -531,7 +558,7 @@ pos = (264,0);
 },
 {
 name = top;
-pos = (248,485);
+pos = (262,485);
 }
 );
 layerId = m003;
@@ -593,7 +620,7 @@ unicode = 97;
 {
 color = 4;
 glyphname = aacute;
-lastChange = "2023-07-11 06:44:51 +0000";
+lastChange = "2023-07-11 07:52:24 +0000";
 layers = (
 {
 layerId = m001;
@@ -615,7 +642,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (165,0);
+pos = (179,0);
 ref = acute;
 }
 );
@@ -626,8 +653,76 @@ unicode = 225;
 },
 {
 color = 4;
+glyphname = abreve;
+lastChange = "2023-07-11 07:52:05 +0000";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (101,0);
+ref = breve;
+}
+);
+width = 475;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (72,0);
+ref = breve;
+}
+);
+width = 509;
+}
+);
+unicode = 259;
+},
+{
+color = 4;
+glyphname = acircumflex;
+lastChange = "2023-07-11 07:59:25 +0000";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (104,0);
+ref = circumflex;
+}
+);
+width = 475;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (22,0);
+ref = circumflex;
+}
+);
+width = 509;
+}
+);
+unicode = 226;
+},
+{
+color = 4;
 glyphname = agrave;
-lastChange = "2023-07-11 06:44:51 +0000";
+lastChange = "2023-07-11 07:52:24 +0000";
 layers = (
 {
 layerId = m001;
@@ -649,7 +744,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (50,0);
+pos = (64,0);
 ref = grave;
 }
 );
@@ -6400,7 +6495,7 @@ unicode = 729;
 {
 color = 11;
 glyphname = grave;
-lastChange = "2023-07-11 06:53:58 +0000";
+lastChange = "2023-07-11 07:34:12 +0000";
 layers = (
 {
 anchors = (
@@ -6417,7 +6512,6 @@ nodes = (
 (127,600,l),
 (71,742,l),
 (10,742,l),
-(95,589,l),
 (95,589,l)
 );
 }
@@ -6439,7 +6533,6 @@ nodes = (
 (256,610,l),
 (190,787,l),
 (10,787,l),
-(124,588,l),
 (124,588,l)
 );
 }
@@ -6452,7 +6545,7 @@ unicode = 96;
 {
 color = 11;
 glyphname = acute;
-lastChange = "2023-07-11 06:53:58 +0000";
+lastChange = "2023-07-11 07:34:23 +0000";
 layers = (
 {
 anchors = (
@@ -6469,7 +6562,6 @@ nodes = (
 (127,742,l),
 (66,742,l),
 (10,600,l),
-(42,589,l),
 (42,589,l)
 );
 }
@@ -6491,7 +6583,6 @@ nodes = (
 (256,787,l),
 (76,787,l),
 (10,610,l),
-(142,588,l),
 (142,588,l)
 );
 }
@@ -6563,10 +6654,16 @@ unicode = 733;
 },
 {
 color = 11;
-glyphname = circumflexmod;
-lastChange = "2023-07-11 06:53:58 +0000";
+glyphname = circumflex;
+lastChange = "2023-07-11 07:54:45 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (137,485);
+}
+);
 layerId = m001;
 shapes = (
 {
@@ -6578,7 +6675,6 @@ nodes = (
 (116,742,l),
 (10,599,l),
 (51,589,l),
-(137,707,l),
 (137,707,l)
 );
 }
@@ -6586,6 +6682,12 @@ nodes = (
 width = 271;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (240,485);
+}
+);
 layerId = m003;
 shapes = (
 {
@@ -6597,7 +6699,6 @@ nodes = (
 (184,787,l),
 (10,608,l),
 (187,588,l),
-(240,650,l),
 (240,650,l)
 );
 }
@@ -6696,14 +6797,24 @@ unicode = 711;
 {
 color = 11;
 glyphname = breve;
-lastChange = "2023-07-11 06:53:58 +0000";
+lastChange = "2023-07-11 07:48:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (140,485);
+}
+);
 layerId = m001;
 shapes = (
 {
 closed = 1;
 nodes = (
+(229.913,601,o),
+(270,666.28,o),
+(270,731,c),
+(229,731,l),
 (229,681.667,o),
 (196,640,o),
 (140,640,cs),
@@ -6713,23 +6824,28 @@ nodes = (
 (10,731,l),
 (10,666.601,o),
 (52.901,601,o),
-(140,601,cs),
-(229.913,601,o),
-(270,666.28,o),
-(270,731,c),
-(229,731,l),
-(229,731,l)
+(140,601,cs)
 );
 }
 );
 width = 280;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (190,485);
+}
+);
 layerId = m003;
 shapes = (
 {
 closed = 1;
 nodes = (
+(302.215,590.04,o),
+(370,665.402,o),
+(370,777,c),
+(241,777,l),
 (241,743.667,o),
 (222,721,o),
 (190,721,cs),
@@ -6739,12 +6855,7 @@ nodes = (
 (10,777,l),
 (10,664.804,o),
 (78.692,590.061,o),
-(190,588,cs),
-(302.215,590.04,o),
-(370,665.402,o),
-(370,777,c),
-(241,777,l),
-(241,777,l)
+(190,588,cs)
 );
 }
 );
@@ -7302,8 +7413,63 @@ width = 266;
 },
 {
 color = 11;
+glyphname = circumflex.case;
+lastChange = "2023-07-11 07:56:39 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (137,680);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,740,l),
+(261,754,l),
+(156,893,l),
+(116,893,l),
+(10,750,l),
+(51,740,l),
+(137,858,l)
+);
+}
+);
+width = 271;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (240,680);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(292,739,l),
+(465,759,l),
+(291,938,l),
+(184,938,l),
+(10,759,l),
+(187,739,l),
+(240,801,l)
+);
+}
+);
+width = 475;
+}
+);
+},
+{
+color = 11;
 glyphname = breve.case;
-lastChange = "2023-07-11 06:53:58 +0000";
+lastChange = "2023-07-11 07:52:18 +0000";
 layers = (
 {
 anchors = (
@@ -7340,7 +7506,7 @@ width = 280;
 anchors = (
 {
 name = _top;
-pos = (191,680);
+pos = (190,680);
 }
 );
 layerId = m003;
