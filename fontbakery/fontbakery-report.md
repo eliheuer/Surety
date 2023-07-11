@@ -148,16 +148,7 @@ Fontbakery version: 0.8.13
 	- 0x0304 (COMBINING MACRON)
 
 
-	- 0x02D9 (DOT ABOVE)
-
-
 	- 0x00B0 (DEGREE SIGN)
-
-
-	- 0x0041 (LATIN CAPITAL LETTER A)
-
-
-	- 0x00C1 (LATIN CAPITAL LETTER A WITH ACUTE)
 
 
 	- 0x0102 (LATIN CAPITAL LETTER A WITH BREVE)
@@ -167,9 +158,6 @@ Fontbakery version: 0.8.13
 
 
 	- 0x00C4 (LATIN CAPITAL LETTER A WITH DIAERESIS)
-
-
-	- 0x00C0 (LATIN CAPITAL LETTER A WITH GRAVE)
 
 
 	- 0x0100 (LATIN CAPITAL LETTER A WITH MACRON)
@@ -493,12 +481,6 @@ Fontbakery version: 0.8.13
 	- 0x017B (LATIN CAPITAL LETTER Z WITH DOT ABOVE)
 
 
-	- 0x0061 (LATIN SMALL LETTER A)
-
-
-	- 0x00E1 (LATIN SMALL LETTER A WITH ACUTE)
-
-
 	- 0x0103 (LATIN SMALL LETTER A WITH BREVE)
 
 
@@ -506,9 +488,6 @@ Fontbakery version: 0.8.13
 
 
 	- 0x00E4 (LATIN SMALL LETTER A WITH DIAERESIS)
-
-
-	- 0x00E0 (LATIN SMALL LETTER A WITH GRAVE)
 
 
 	- 0x0101 (LATIN SMALL LETTER A WITH MACRON)
@@ -953,45 +932,9 @@ Fontbakery version: 0.8.13
 
 
 	- 0x0327 (COMBINING CEDILLA)
-
-
-	- 0x0328 (COMBINING OGONEK)
-
-
-	- 0x00A8 (DIAERESIS)
-
-
-	- 0x0060 (GRAVE ACCENT)
-
-
-	- 0x00B4 (ACUTE ACCENT)
-
-
-	- 0x02DD (DOUBLE ACUTE ACCENT)
-
-
-	- 0x02C6 (MODIFIER LETTER CIRCUMFLEX ACCENT)
-
-
-	- 0x02C7 (CARON)
-
-
-	- 0x02D8 (BREVE)
-
-
-	- 0x02DA (RING ABOVE)
-
-
-	- 0x02DC (SMALL TILDE)
-
-
-	- 0x00AF (MACRON)
-
-
-	- 0x00B8 (CEDILLA)
  
 
-	- 0x02DB (OGONEK)
+	- 0x0328 (COMBINING OGONEK)
  [code: missing-codepoints]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check the OS/2 usWeightClass is appropriate for the font's best SubFamily name. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
 
@@ -1019,8 +962,8 @@ Fontbakery version: 0.8.13
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 6 | 8 | 127 | 7 | 98 | 0 |
-| 0% | 2% | 3% | 52% | 3% | 40% | 0% |
+| 0 | 6 | 10 | 126 | 7 | 97 | 0 |
+| 0% | 2% | 4% | 51% | 3% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **WARN**
