@@ -2,222 +2,24 @@
 
 Fontbakery version: 0.8.13
 
-<details><summary><b>[6] Surety-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+<details><summary><b>[5] Surety-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
 
-	- 0x0030 (DIGIT ZERO)
-
-
-	- 0x0031 (DIGIT ONE)
-
-
-	- 0x0032 (DIGIT TWO)
-
-
-	- 0x0033 (DIGIT THREE)
-
-
-	- 0x0034 (DIGIT FOUR)
-
-
-	- 0x0035 (DIGIT FIVE)
-
-
-	- 0x0036 (DIGIT SIX)
-
-
-	- 0x0037 (DIGIT SEVEN)
-
-
-	- 0x0038 (DIGIT EIGHT)
-
-
-	- 0x0039 (DIGIT NINE)
-
-
-	- 0x00A0 (NO-BREAK SPACE)
-
-
-	- 0x002E (FULL STOP)
-
-
-	- 0x003A (COLON)
-
-
-	- 0x2026 (HORIZONTAL ELLIPSIS)
-
-
-	- 0x0021 (EXCLAMATION MARK)
-
-
-	- 0x002A (ASTERISK)
-
-
-	- 0x0023 (NUMBER SIGN)
-
-
-	- 0x002F (SOLIDUS)
-
-
-	- 0x005C (REVERSE SOLIDUS)
-
-
-	- 0x002D (HYPHEN-MINUS)
-
-
-	- 0x0028 (LEFT PARENTHESIS)
-
-
-	- 0x0029 (RIGHT PARENTHESIS)
-
-
-	- 0x007B (LEFT CURLY BRACKET)
-
-
-	- 0x007D (RIGHT CURLY BRACKET)
-
-
-	- 0x005B (LEFT SQUARE BRACKET)
-
-
-	- 0x005D (RIGHT SQUARE BRACKET)
-
-
-	- 0x201C (LEFT DOUBLE QUOTATION MARK)
-
-
-	- 0x201D (RIGHT DOUBLE QUOTATION MARK)
-
-
-	- 0x2018 (LEFT SINGLE QUOTATION MARK)
-
-
-	- 0x2019 (RIGHT SINGLE QUOTATION MARK)
-
-
-	- 0x00AB (LEFT-POINTING DOUBLE ANGLE QUOTATION MARK)
-
-
-	- 0x00BB (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK)
-
-
-	- 0x0022 (QUOTATION MARK)
-
-
-	- 0x0027 (APOSTROPHE)
-
-
-	- 0x007C (VERTICAL LINE)
-
-
-	- 0x002B (PLUS SIGN)
-
-
-	- 0x00D7 (MULTIPLICATION SIGN)
-
-
-	- 0x00F7 (DIVISION SIGN)
-
-
-	- 0x003D (EQUALS SIGN)
-
-
-	- 0x003E (GREATER-THAN SIGN)
-
-
-	- 0x003C (LESS-THAN SIGN)
-
-
 	- 0x0025 (PERCENT SIGN)
-
-
-	- 0x0308 (COMBINING DIAERESIS)
-
-
-	- 0x0300 (COMBINING GRAVE ACCENT)
-
-
-	- 0x0301 (COMBINING ACUTE ACCENT)
 
 
 	- 0x030B (COMBINING DOUBLE ACUTE ACCENT)
 
 
-	- 0x0304 (COMBINING MACRON)
-
-
-	- 0x00B0 (DEGREE SIGN)
-
-
-	- 0x00C4 (LATIN CAPITAL LETTER A WITH DIAERESIS)
-
-
-	- 0x0100 (LATIN CAPITAL LETTER A WITH MACRON)
-
-
-	- 0x0104 (LATIN CAPITAL LETTER A WITH OGONEK)
-
-
-	- 0x00C5 (LATIN CAPITAL LETTER A WITH RING ABOVE)
-
-
-	- 0x00C3 (LATIN CAPITAL LETTER A WITH TILDE)
-
-
-	- 0x00C6 (LATIN CAPITAL LETTER AE)
-
-
-	- 0x0042 (LATIN CAPITAL LETTER B)
-
-
-	- 0x0043 (LATIN CAPITAL LETTER C)
-
-
-	- 0x0106 (LATIN CAPITAL LETTER C WITH ACUTE)
-
-
-	- 0x010C (LATIN CAPITAL LETTER C WITH CARON)
-
-
 	- 0x00C7 (LATIN CAPITAL LETTER C WITH CEDILLA)
-
-
-	- 0x010A (LATIN CAPITAL LETTER C WITH DOT ABOVE)
-
-
-	- 0x0044 (LATIN CAPITAL LETTER D)
 
 
 	- 0x00D0 (LATIN CAPITAL LETTER ETH)
 
 
-	- 0x010E (LATIN CAPITAL LETTER D WITH CARON)
-
-
 	- 0x0110 (LATIN CAPITAL LETTER D WITH STROKE)
-
-
-	- 0x0045 (LATIN CAPITAL LETTER E)
-
-
-	- 0x00C9 (LATIN CAPITAL LETTER E WITH ACUTE)
-
-
-	- 0x011A (LATIN CAPITAL LETTER E WITH CARON)
-
-
-	- 0x00CA (LATIN CAPITAL LETTER E WITH CIRCUMFLEX)
-
-
-	- 0x00CB (LATIN CAPITAL LETTER E WITH DIAERESIS)
-
-
-	- 0x0116 (LATIN CAPITAL LETTER E WITH DOT ABOVE)
-
-
-	- 0x00C8 (LATIN CAPITAL LETTER E WITH GRAVE)
 
 
 	- 0x0112 (LATIN CAPITAL LETTER E WITH MACRON)
@@ -475,19 +277,7 @@ Fontbakery version: 0.8.13
 	- 0x017B (LATIN CAPITAL LETTER Z WITH DOT ABOVE)
 
 
-	- 0x00E4 (LATIN SMALL LETTER A WITH DIAERESIS)
-
-
-	- 0x0101 (LATIN SMALL LETTER A WITH MACRON)
-
-
 	- 0x0105 (LATIN SMALL LETTER A WITH OGONEK)
-
-
-	- 0x00E5 (LATIN SMALL LETTER A WITH RING ABOVE)
-
-
-	- 0x00E3 (LATIN SMALL LETTER A WITH TILDE)
 
 
 	- 0x00E6 (LATIN SMALL LETTER AE)
@@ -808,93 +598,6 @@ Fontbakery version: 0.8.13
 	- 0x00BA (MASCULINE ORDINAL INDICATOR)
 
 
-	- 0x002C (COMMA)
-
-
-	- 0x003B (SEMICOLON)
-
-
-	- 0x00A1 (INVERTED EXCLAMATION MARK)
-
-
-	- 0x003F (QUESTION MARK)
-
-
-	- 0x00BF (INVERTED QUESTION MARK)
-
-
-	- 0x00B7 (MIDDLE DOT)
-
-
-	- 0x2022 (BULLET)
-
-
-	- 0x2013 (EN DASH)
-
-
-	- 0x2014 (EM DASH)
-
-
-	- 0x005F (LOW LINE)
-
-
-	- 0x201A (SINGLE LOW-9 QUOTATION MARK)
-
-
-	- 0x201E (DOUBLE LOW-9 QUOTATION MARK)
-
-
-	- 0x2039 (SINGLE LEFT-POINTING ANGLE QUOTATION MARK)
-
-
-	- 0x203A (SINGLE RIGHT-POINTING ANGLE QUOTATION MARK)
-
-
-	- 0x0040 (COMMERCIAL AT)
-
-
-	- 0x0026 (AMPERSAND)
-
-
-	- 0x00B6 (PILCROW SIGN)
-
-
-	- 0x00A7 (SECTION SIGN)
-
-
-	- 0x00A9 (COPYRIGHT SIGN)
-
-
-	- 0x00AE (REGISTERED SIGN)
-
-
-	- 0x2122 (TRADE MARK SIGN)
-
-
-	- 0x00A2 (CENT SIGN)
-
-
-	- 0x0024 (DOLLAR SIGN)
-
-
-	- 0x20AC (EURO SIGN)
-
-
-	- 0x00A3 (POUND SIGN)
-
-
-	- 0x00A5 (YEN SIGN)
-
-
-	- 0x2212 (MINUS SIGN)
-
-
-	- 0x007E (TILDE)
-
-
-	- 0x005E (CIRCUMFLEX ACCENT)
-
-
 	- 0x0307 (COMBINING DOT ABOVE)
 
 
@@ -936,10 +639,6 @@ Fontbakery version: 0.8.13
 
 
 * 🔥 **FAIL** .notdef glyphs were found when attempting to render Surety Black [code: render-own-name]
-</div></details><details><summary>🔥 <b>FAIL:</b> Font contains glyphs for whitespace characters? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_glyphs">com.google.fonts/check/whitespace_glyphs</a>)</summary><div>
-
-
-* 🔥 **FAIL** Whitespace glyph missing for codepoint 0x00A0. [code: missing-whitespace-glyph-0x00A0]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check code page character ranges (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/os2.html#com.google.fonts/check/code_pages">com.google.fonts/check/code_pages</a>)</summary><div>
 
 
@@ -950,8 +649,8 @@ Fontbakery version: 0.8.13
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 6 | 10 | 126 | 7 | 97 | 0 |
-| 0% | 2% | 4% | 51% | 3% | 39% | 0% |
+| 0 | 5 | 13 | 124 | 7 | 97 | 0 |
+| 0% | 2% | 5% | 50% | 3% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **WARN**
