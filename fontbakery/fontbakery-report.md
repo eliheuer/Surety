@@ -214,15 +214,6 @@ Fontbakery version: 0.8.13
 	- 0x0105 (LATIN SMALL LETTER A WITH OGONEK)
 
 
-	- 0x00E6 (LATIN SMALL LETTER AE)
-
-
-	- 0x0062 (LATIN SMALL LETTER B)
-
-
-	- 0x0063 (LATIN SMALL LETTER C)
-
-
 	- 0x0107 (LATIN SMALL LETTER C WITH ACUTE)
 
 
@@ -235,9 +226,6 @@ Fontbakery version: 0.8.13
 	- 0x010B (LATIN SMALL LETTER C WITH DOT ABOVE)
 
 
-	- 0x0064 (LATIN SMALL LETTER D)
-
-
 	- 0x00F0 (LATIN SMALL LETTER ETH)
 
 
@@ -245,9 +233,6 @@ Fontbakery version: 0.8.13
 
 
 	- 0x0111 (LATIN SMALL LETTER D WITH STROKE)
-
-
-	- 0x0065 (LATIN SMALL LETTER E)
 
 
 	- 0x00E9 (LATIN SMALL LETTER E WITH ACUTE)
@@ -274,12 +259,6 @@ Fontbakery version: 0.8.13
 	- 0x0119 (LATIN SMALL LETTER E WITH OGONEK)
 
 
-	- 0x0066 (LATIN SMALL LETTER F)
-
-
-	- 0x0067 (LATIN SMALL LETTER G)
-
-
 	- 0x011F (LATIN SMALL LETTER G WITH BREVE)
 
 
@@ -289,16 +268,7 @@ Fontbakery version: 0.8.13
 	- 0x0121 (LATIN SMALL LETTER G WITH DOT ABOVE)
 
 
-	- 0x0068 (LATIN SMALL LETTER H)
-
-
 	- 0x0127 (LATIN SMALL LETTER H WITH STROKE)
-
-
-	- 0x0069 (LATIN SMALL LETTER I)
-
-
-	- 0x0131 (LATIN SMALL LETTER DOTLESS I)
 
 
 	- 0x00ED (LATIN SMALL LETTER I WITH ACUTE)
@@ -322,19 +292,10 @@ Fontbakery version: 0.8.13
 	- 0x012F (LATIN SMALL LETTER I WITH OGONEK)
 
 
-	- 0x006A (LATIN SMALL LETTER J)
-
-
 	- 0x0237 (LATIN SMALL LETTER DOTLESS J)
 
 
-	- 0x006B (LATIN SMALL LETTER K)
-
-
 	- 0x0137 (LATIN SMALL LETTER K WITH CEDILLA)
-
-
-	- 0x006C (LATIN SMALL LETTER L)
 
 
 	- 0x013A (LATIN SMALL LETTER L WITH ACUTE)
@@ -347,12 +308,6 @@ Fontbakery version: 0.8.13
 
 
 	- 0x0142 (LATIN SMALL LETTER L WITH STROKE)
-
-
-	- 0x006D (LATIN SMALL LETTER M)
-
-
-	- 0x006E (LATIN SMALL LETTER N)
 
 
 	- 0x0144 (LATIN SMALL LETTER N WITH ACUTE)
@@ -368,9 +323,6 @@ Fontbakery version: 0.8.13
 
 
 	- 0x014B (LATIN SMALL LETTER ENG)
-
-
-	- 0x006F (LATIN SMALL LETTER O)
 
 
 	- 0x00F3 (LATIN SMALL LETTER O WITH ACUTE)
@@ -397,21 +349,6 @@ Fontbakery version: 0.8.13
 	- 0x00F5 (LATIN SMALL LETTER O WITH TILDE)
 
 
-	- 0x0153 (LATIN SMALL LIGATURE OE)
-
-
-	- 0x0070 (LATIN SMALL LETTER P)
-
-
-	- 0x00FE (LATIN SMALL LETTER THORN)
-
-
-	- 0x0071 (LATIN SMALL LETTER Q)
-
-
-	- 0x0072 (LATIN SMALL LETTER R)
-
-
 	- 0x0155 (LATIN SMALL LETTER R WITH ACUTE)
 
 
@@ -419,9 +356,6 @@ Fontbakery version: 0.8.13
 
 
 	- 0x0157 (LATIN SMALL LETTER R WITH CEDILLA)
-
-
-	- 0x0073 (LATIN SMALL LETTER S)
 
 
 	- 0x015B (LATIN SMALL LETTER S WITH ACUTE)
@@ -436,19 +370,10 @@ Fontbakery version: 0.8.13
 	- 0x0219 (LATIN SMALL LETTER S WITH COMMA BELOW)
 
 
-	- 0x00DF (LATIN SMALL LETTER SHARP S)
-
-
-	- 0x0074 (LATIN SMALL LETTER T)
-
-
 	- 0x0165 (LATIN SMALL LETTER T WITH CARON)
 
 
 	- 0x021B (LATIN SMALL LETTER T WITH COMMA BELOW)
-
-
-	- 0x0075 (LATIN SMALL LETTER U)
 
 
 	- 0x00FA (LATIN SMALL LETTER U WITH ACUTE)
@@ -478,12 +403,6 @@ Fontbakery version: 0.8.13
 	- 0x016F (LATIN SMALL LETTER U WITH RING ABOVE)
 
 
-	- 0x0076 (LATIN SMALL LETTER V)
-
-
-	- 0x0077 (LATIN SMALL LETTER W)
-
-
 	- 0x1E83 (LATIN SMALL LETTER W WITH ACUTE)
 
 
@@ -496,12 +415,6 @@ Fontbakery version: 0.8.13
 	- 0x1E81 (LATIN SMALL LETTER W WITH GRAVE)
 
 
-	- 0x0078 (LATIN SMALL LETTER X)
-
-
-	- 0x0079 (LATIN SMALL LETTER Y)
-
-
 	- 0x00FD (LATIN SMALL LETTER Y WITH ACUTE)
 
 
@@ -512,9 +425,6 @@ Fontbakery version: 0.8.13
 
 
 	- 0x1EF3 (LATIN SMALL LETTER Y WITH GRAVE)
-
-
-	- 0x007A (LATIN SMALL LETTER Z)
 
 
 	- 0x017A (LATIN SMALL LETTER Z WITH ACUTE)
@@ -563,10 +473,12 @@ Fontbakery version: 0.8.13
 
 
 * 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/Surety-Black.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font can render its own name. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/render_own_name">com.google.fonts/check/render_own_name</a>)</summary><div>
+</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
-* 🔥 **FAIL** .notdef glyphs were found when attempting to render Surety Black [code: render-own-name]
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̊ i̋ j̀ j́ j̄ j̈
+
+The dot of soft dotted characters should disappear in other cases, for example: ì í ī ï į̀ į́ į̄ į̈ į̊ į̋ j̊ j̋ j̨̀ j̨́ j̨̄ j̨̈ j̨̊ j̨̋ [code: soft-dotted]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check code page character ranges (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/os2.html#com.google.fonts/check/code_pages">com.google.fonts/check/code_pages</a>)</summary><div>
 
 
@@ -577,8 +489,8 @@ Fontbakery version: 0.8.13
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 5 | 13 | 124 | 7 | 97 | 0 |
-| 0% | 2% | 5% | 50% | 3% | 39% | 0% |
+| 0 | 5 | 13 | 123 | 7 | 98 | 0 |
+| 0% | 2% | 5% | 50% | 3% | 40% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **WARN**
