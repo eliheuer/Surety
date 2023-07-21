@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalmem-hebr" format="2">
+  <advance width="603"/>
+  <unicode hex="05DD"/>
+  <anchor x="312" y="0" name="Anchor_1"/>
+  <anchor x="303" y="0" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="464" y="37" type="line"/>
+      <point x="464" y="553" type="line"/>
+      <point x="134" y="553" type="line"/>
+      <point x="134" y="37" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="590" type="line"/>
+      <point x="513" y="590" type="line"/>
+    </contour>
+  </outline>
+</glyph>

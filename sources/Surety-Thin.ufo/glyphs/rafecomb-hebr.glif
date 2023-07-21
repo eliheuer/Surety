@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rafecomb-hebr" format="2">
+  <unicode hex="05BF"/>
+  <anchor x="0" y="0" name="Anchor_1"/>
+  <anchor x="0" y="0" name="Bottom-liga"/>
+  <anchor x="126" y="386" name="top - liga"/>
+  <anchor x="126" y="386" name="top-hebr"/>
+  <outline>
+    <contour>
+      <point x="212" y="527" type="line"/>
+      <point x="37" y="527" type="line"/>
+      <point x="37" y="569" type="line"/>
+      <point x="212" y="569" type="line"/>
+    </contour>
+  </outline>
+</glyph>

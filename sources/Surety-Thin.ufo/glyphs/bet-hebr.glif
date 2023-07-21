@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bet-hebr" format="2">
+  <advance width="520"/>
+  <unicode hex="05D1"/>
+  <anchor x="268" y="0" name="Anchor_1"/>
+  <anchor x="206" y="0" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="430" y="590" type="line"/>
+      <point x="430" y="39" type="line"/>
+      <point x="490" y="39" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="65" y="39" type="line"/>
+      <point x="381" y="39" type="line"/>
+      <point x="381" y="551" type="line"/>
+      <point x="65" y="551" type="line"/>
+      <point x="75" y="590" type="line"/>
+    </contour>
+  </outline>
+</glyph>

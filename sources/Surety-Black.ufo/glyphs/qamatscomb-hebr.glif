@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qamatscomb-hebr" format="2">
+  <unicode hex="05B8"/>
+  <anchor x="0" y="0" name="Anchor_1"/>
+  <anchor x="112" y="0" name="Bottom-liga"/>
+  <anchor x="113" y="0" name="bottom-hebr"/>
+  <outline>
+    <contour>
+      <point x="7" y="-123" type="line"/>
+      <point x="19" y="-185" type="line"/>
+      <point x="22" y="-231" type="line"/>
+      <point x="-22" y="-231" type="line"/>
+      <point x="-19" y="-185" type="line"/>
+      <point x="-7" y="-123" type="line"/>
+      <point x="-77" y="-123" type="line"/>
+      <point x="-77" y="-84" type="line"/>
+      <point x="77" y="-84" type="line"/>
+      <point x="77" y="-123" type="line"/>
+    </contour>
+  </outline>
+</glyph>

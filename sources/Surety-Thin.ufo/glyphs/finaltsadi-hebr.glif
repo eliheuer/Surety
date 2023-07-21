@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finaltsadi-hebr" format="2">
+  <advance width="565"/>
+  <unicode hex="05E5"/>
+  <anchor x="175" y="252" name="Anchor_1"/>
+  <anchor x="295" y="153" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="484" y="-187" type="line"/>
+      <point x="441" y="-211" type="line"/>
+      <point x="50" y="582" type="line"/>
+      <point x="94" y="602" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="154" type="line"/>
+      <point x="271" y="188" type="line"/>
+      <point x="488" y="604" type="line"/>
+      <point x="527" y="577" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yod-hebr" format="2">
+  <advance width="330"/>
+  <unicode hex="05D9"/>
+  <anchor x="210" y="0" name="Anchor_1"/>
+  <anchor x="108" y="138" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="240" y="284" type="line"/>
+      <point x="191" y="267" type="line"/>
+      <point x="191" y="551" type="line"/>
+      <point x="60" y="551" type="line"/>
+      <point x="70" y="590" type="line"/>
+      <point x="240" y="590" type="line"/>
+    </contour>
+  </outline>
+</glyph>

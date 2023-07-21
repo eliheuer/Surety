@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="resh-hebr" format="2">
+  <advance width="532"/>
+  <unicode hex="05E8"/>
+  <anchor x="399" y="0" name="Anchor_1"/>
+  <anchor x="192" y="-21" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="492" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="319" type="line" smooth="yes"/>
+      <point x="310" y="406"/>
+      <point x="289" y="444"/>
+      <point x="203" y="444" type="curve" smooth="yes"/>
+      <point x="159" y="444"/>
+      <point x="107" y="437"/>
+      <point x="49" y="428" type="curve"/>
+      <point x="26" y="572" type="line"/>
+      <point x="67" y="582"/>
+      <point x="136" y="595"/>
+      <point x="226" y="595" type="curve" smooth="yes"/>
+      <point x="427" y="595"/>
+      <point x="492" y="497"/>
+      <point x="492" y="391" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

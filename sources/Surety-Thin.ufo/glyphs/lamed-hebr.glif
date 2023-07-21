@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamed-hebr" format="2">
+  <advance width="556"/>
+  <unicode hex="05DC"/>
+  <anchor x="261" y="0" name="Anchor_1"/>
+  <anchor x="201" y="90" name="dagesh"/>
+  <anchor x="-33" y="0" name="holam"/>
+  <outline>
+    <contour>
+      <point x="211" y="-8" type="line"/>
+      <point x="168" y="17" type="line"/>
+      <point x="443" y="550" type="line"/>
+      <point x="60" y="550" type="line"/>
+      <point x="60" y="725" type="line"/>
+      <point x="111" y="725" type="line"/>
+      <point x="111" y="590" type="line"/>
+      <point x="496" y="590" type="line"/>
+      <point x="495" y="553" type="line"/>
+    </contour>
+  </outline>
+</glyph>

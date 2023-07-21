@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="400" default="400">
+      <map input="400" output="900"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Surety-Thin.ufo" name="Surety Thin" familyname="Surety" stylename="Thin">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Surety-Black.ufo" name="Surety Black" familyname="Surety" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Surety Thin" familyname="Surety" stylename="Thin" filename="../instance_ufo/Surety-Thin.ufo" stylemapfamilyname="Surety Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="Surety ExtraLight" familyname="Surety" stylename="ExtraLight" filename="../instance_ufo/Surety-ExtraLight.ufo" stylemapfamilyname="Surety ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="136.084"/>
+      </location>
+    </instance>
+    <instance name="Surety Light" familyname="Surety" stylename="Light" filename="../instance_ufo/Surety-Light.ufo" stylemapfamilyname="Surety Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="178.174"/>
+      </location>
+    </instance>
+    <instance name="Surety Regular" familyname="Surety" stylename="Regular" filename="../instance_ufo/Surety-Regular.ufo" stylemapfamilyname="Surety" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="280.469"/>
+      </location>
+    </instance>
+    <instance name="Surety Medium" familyname="Surety" stylename="Medium" filename="../instance_ufo/Surety-Medium.ufo" stylemapfamilyname="Surety Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="382.715"/>
+      </location>
+    </instance>
+    <instance name="Surety SemiBold" familyname="Surety" stylename="SemiBold" filename="../instance_ufo/Surety-SemiBold.ufo" stylemapfamilyname="Surety SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="478.955"/>
+      </location>
+    </instance>
+    <instance name="Surety Bold" familyname="Surety" stylename="Bold" filename="../instance_ufo/Surety-Bold.ufo" stylemapfamilyname="Surety Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="581.201"/>
+      </location>
+    </instance>
+    <instance name="Surety ExtraBold" familyname="Surety" stylename="ExtraBold" filename="../instance_ufo/Surety-ExtraBold.ufo" stylemapfamilyname="Surety ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="743.604"/>
+      </location>
+    </instance>
+    <instance name="Surety Black" familyname="Surety" stylename="Black" filename="../instance_ufo/Surety-Black.ufo" stylemapfamilyname="Surety Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalnun-hebr" format="2">
+  <advance width="355"/>
+  <unicode hex="05DF"/>
+  <anchor x="60" y="360" name="Anchor_1"/>
+  <anchor x="48" y="-48" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="305" y="-172" type="line"/>
+      <point x="123" y="-208" type="line"/>
+      <point x="123" y="447" type="line"/>
+      <point x="20" y="447" type="line"/>
+      <point x="40" y="590" type="line"/>
+      <point x="305" y="590" type="line"/>
+    </contour>
+  </outline>
+</glyph>

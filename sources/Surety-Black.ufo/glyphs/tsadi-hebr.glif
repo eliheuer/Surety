@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsadi-hebr" format="2">
+  <advance width="585"/>
+  <unicode hex="05E6"/>
+  <anchor x="300" y="0" name="Anchor_1"/>
+  <anchor x="162" y="-75" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="495" y="0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="143" type="line"/>
+      <point x="310" y="143" type="line"/>
+      <point x="5" y="557" type="line"/>
+      <point x="158" y="619" type="line"/>
+      <point x="520" y="143" type="line"/>
+    </contour>
+    <contour>
+      <point x="378" y="259" type="line"/>
+      <point x="271" y="372" type="line"/>
+      <point x="467" y="618" type="line"/>
+      <point x="581" y="503" type="line"/>
+    </contour>
+  </outline>
+</glyph>

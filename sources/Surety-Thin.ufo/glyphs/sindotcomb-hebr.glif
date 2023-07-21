@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sindotcomb-hebr" format="2">
+  <unicode hex="05C2"/>
+  <anchor x="0" y="0" name="Anchor_1"/>
+  <anchor x="0" y="0" name="Bottom-liga"/>
+  <anchor x="0" y="0" name="shin - liga"/>
+  <anchor x="0" y="0" name="sin"/>
+  <anchor x="0" y="0" name="sin - liga"/>
+  <anchor x="64" y="400" name="topleft-hebr"/>
+  <anchor x="64" y="400" name="topright2-hebr"/>
+  <outline>
+    <contour>
+      <point x="0" y="692" type="curve" smooth="yes"/>
+      <point x="14.667" y="692"/>
+      <point x="27" y="679.667"/>
+      <point x="27" y="665" type="curve" smooth="yes"/>
+      <point x="27" y="649"/>
+      <point x="14.667" y="637"/>
+      <point x="0" y="637" type="curve" smooth="yes"/>
+      <point x="-16" y="637"/>
+      <point x="-28" y="649"/>
+      <point x="-28" y="665" type="curve" smooth="yes"/>
+      <point x="-28" y="679.667"/>
+      <point x="-16" y="692"/>
+    </contour>
+  </outline>
+</glyph>

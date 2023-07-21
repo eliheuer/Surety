@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalet-hebr" format="2">
+  <advance width="523"/>
+  <unicode hex="05D3"/>
+  <anchor x="367" y="0" name="Anchor_1"/>
+  <anchor x="199" y="0" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="403" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="354" y="551" type="line"/>
+      <point x="60" y="551" type="line"/>
+      <point x="70" y="590" type="line"/>
+      <point x="485" y="590" type="line"/>
+      <point x="480" y="551" type="line"/>
+      <point x="403" y="551" type="line"/>
+    </contour>
+  </outline>
+</glyph>

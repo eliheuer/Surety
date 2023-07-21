@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nun-hebr" format="2">
+  <advance width="408"/>
+  <unicode hex="05E0"/>
+  <anchor x="220" y="0" name="Anchor_1"/>
+  <anchor x="99" y="0" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="363" y="0" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="25" y="143" type="line"/>
+      <point x="185" y="143" type="line"/>
+      <point x="185" y="368" type="line" smooth="yes"/>
+      <point x="185" y="421"/>
+      <point x="160" y="441"/>
+      <point x="118" y="441" type="curve" smooth="yes"/>
+      <point x="95" y="441"/>
+      <point x="72" y="437"/>
+      <point x="47" y="429" type="curve"/>
+      <point x="20" y="572" type="line"/>
+      <point x="65" y="586"/>
+      <point x="115" y="593"/>
+      <point x="161" y="593" type="curve" smooth="yes"/>
+      <point x="302" y="593"/>
+      <point x="363" y="520"/>
+      <point x="363" y="400" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hatafpatahcomb-hebr" format="2">
+  <unicode hex="05B2"/>
+  <anchor x="0" y="0" name="Anchor_1"/>
+  <anchor x="160" y="0" name="Bottom-liga"/>
+  <anchor x="162" y="0" name="bottom-hebr"/>
+  <outline>
+    <contour>
+      <point x="25" y="-123" type="line"/>
+      <point x="-127" y="-123" type="line"/>
+      <point x="-127" y="-83" type="line"/>
+      <point x="25" y="-83" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="-79" type="curve" smooth="yes"/>
+      <point x="113.667" y="-79"/>
+      <point x="127" y="-91.333"/>
+      <point x="127" y="-106" type="curve" smooth="yes"/>
+      <point x="127" y="-122"/>
+      <point x="113.667" y="-134"/>
+      <point x="99" y="-134" type="curve" smooth="yes"/>
+      <point x="84.333" y="-134"/>
+      <point x="71" y="-122"/>
+      <point x="71" y="-106" type="curve" smooth="yes"/>
+      <point x="71" y="-91.333"/>
+      <point x="84.333" y="-79"/>
+    </contour>
+    <contour>
+      <point x="99" y="-181" type="curve" smooth="yes"/>
+      <point x="113.667" y="-181"/>
+      <point x="127" y="-193.333"/>
+      <point x="127" y="-208" type="curve" smooth="yes"/>
+      <point x="127" y="-224"/>
+      <point x="113.667" y="-236"/>
+      <point x="99" y="-236" type="curve" smooth="yes"/>
+      <point x="84.333" y="-236"/>
+      <point x="71" y="-224"/>
+      <point x="71" y="-208" type="curve" smooth="yes"/>
+      <point x="71" y="-193.333"/>
+      <point x="84.333" y="-181"/>
+    </contour>
+  </outline>
+</glyph>

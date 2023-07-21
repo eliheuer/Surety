@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qof-hebr" format="2">
+  <advance width="599"/>
+  <unicode hex="05E7"/>
+  <anchor x="356" y="0" name="Anchor_1"/>
+  <anchor x="281" y="0" name="dagesh"/>
+  <outline>
+    <contour>
+      <point x="364" y="-12" type="line"/>
+      <point x="317" y="6" type="line"/>
+      <point x="490" y="551" type="line"/>
+      <point x="65" y="551" type="line"/>
+      <point x="74" y="590" type="line"/>
+      <point x="529" y="590" type="line"/>
+      <point x="534" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="-179" type="line"/>
+      <point x="117" y="-198" type="line"/>
+      <point x="117" y="372" type="line"/>
+      <point x="166" y="397" type="line"/>
+    </contour>
+  </outline>
+</glyph>

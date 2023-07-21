@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dageshormapiqcomb-hebr" format="2">
+  <unicode hex="05BC"/>
+  <anchor x="0" y="0" name="Anchor_1"/>
+  <anchor x="0" y="0" name="Bottom-liga"/>
+  <anchor x="0" y="0" name="center - liga"/>
+  <anchor x="64" y="243" name="center-hebr"/>
+  <anchor x="0" y="0" name="dagesh"/>
+  <anchor x="0" y="0" name="top - liga"/>
+  <outline>
+    <contour>
+      <point x="1" y="318" type="curve" smooth="yes"/>
+      <point x="15.667" y="318"/>
+      <point x="28" y="305.667"/>
+      <point x="28" y="291" type="curve" smooth="yes"/>
+      <point x="28" y="275"/>
+      <point x="15.667" y="263"/>
+      <point x="1" y="263" type="curve" smooth="yes"/>
+      <point x="-15" y="263"/>
+      <point x="-27" y="275"/>
+      <point x="-27" y="291" type="curve" smooth="yes"/>
+      <point x="-27" y="305.667"/>
+      <point x="-15" y="318"/>
+    </contour>
+  </outline>
+</glyph>

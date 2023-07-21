@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="metegcomb-hebr" format="2">
+  <unicode hex="05BD"/>
+  <anchor x="0" y="0" name="Anchor_1"/>
+  <outline>
+    <contour>
+      <point x="-23" y="-48" type="line"/>
+      <point x="-23" y="-254" type="line"/>
+      <point x="27" y="-254" type="line"/>
+      <point x="27" y="-48" type="line"/>
+    </contour>
+  </outline>
+</glyph>
