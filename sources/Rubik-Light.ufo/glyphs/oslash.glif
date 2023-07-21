@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="558"/>
+  <unicode hex="00F8"/>
+  <anchor x="279" y="520" name="top"/>
+  <anchor x="279" y="0" name="bottom"/>
+  <anchor x="279" y="260" name="center"/>
+  <anchor x="502" y="10" name="ogonek"/>
+  <anchor x="538" y="520" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="slashshortcomb" xOffset="55" yOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>name</key>
+          <string></string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>515</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

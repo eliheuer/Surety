@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedieresis-cy" format="2">
+  <advance width="652"/>
+  <unicode hex="04F5"/>
+  <anchor x="464" y="0" name="bottomright"/>
+  <anchor x="303" y="765" name="top"/>
+  <outline>
+    <component base="che-cy"/>
+    <component base="dieresiscomb" xOffset="48"/>
+  </outline>
+</glyph>

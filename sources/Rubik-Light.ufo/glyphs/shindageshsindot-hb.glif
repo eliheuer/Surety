@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shindageshsindot-hb" format="2">
+  <advance width="691"/>
+  <unicode hex="FB2D"/>
+  <anchor x="349" y="0" name="bottom"/>
+  <anchor x="14" y="0" name="bottomleft"/>
+  <anchor x="464" y="260" name="center"/>
+  <anchor x="349" y="520" name="top"/>
+  <anchor x="14" y="520" name="topleft"/>
+  <anchor x="683" y="520" name="topright"/>
+  <outline>
+    <component base="shin-hb"/>
+    <component base="dagesh-hb" xOffset="463" yOffset="-29"/>
+    <component base="sindot-hb" xOffset="84" yOffset="105"/>
+  </outline>
+</glyph>

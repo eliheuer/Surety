@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="betdagesh-hb" format="2">
+  <advance width="599"/>
+  <unicode hex="FB31"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="167" y="260" name="center"/>
+  <anchor x="300" y="520" name="top"/>
+  <anchor x="20" y="520" name="topleft"/>
+  <outline>
+    <component base="bet-hb"/>
+    <component base="dagesh-hb" xOffset="109" yOffset="-26"/>
+  </outline>
+</glyph>

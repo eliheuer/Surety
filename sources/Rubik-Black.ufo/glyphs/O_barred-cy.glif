@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarred-cy" format="2">
+  <advance width="742"/>
+  <unicode hex="04E8"/>
+  <anchor x="371" y="700" name="top"/>
+  <anchor x="371" y="0" name="bottom"/>
+  <anchor x="371" y="350" name="center"/>
+  <anchor x="668" y="10" name="ogonek"/>
+  <anchor x="20" y="700" name="topleft"/>
+  <anchor x="722" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="163" y="289" type="curve" smooth="yes"/>
+      <point x="578" y="289" type="line" smooth="yes"/>
+      <point x="593" y="289"/>
+      <point x="605" y="301"/>
+      <point x="605" y="316" type="curve" smooth="yes"/>
+      <point x="605" y="384" type="line" smooth="yes"/>
+      <point x="605" y="399"/>
+      <point x="593" y="411"/>
+      <point x="578" y="411" type="curve" smooth="yes"/>
+      <point x="163" y="411" type="line" smooth="yes"/>
+      <point x="148" y="411"/>
+      <point x="136" y="399"/>
+      <point x="136" y="384" type="curve" smooth="yes"/>
+      <point x="136" y="316" type="line" smooth="yes"/>
+      <point x="136" y="301"/>
+      <point x="148" y="289"/>
+    </contour>
+    <component base="O-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

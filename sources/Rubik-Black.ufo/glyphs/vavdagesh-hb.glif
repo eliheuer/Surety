@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vavdagesh-hb" format="2">
+  <advance width="416"/>
+  <unicode hex="FB35"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="109" y="0" name="bottomleft"/>
+  <anchor x="53" y="260" name="center"/>
+  <anchor x="253" y="520" name="top"/>
+  <anchor x="305" y="520" name="topleft"/>
+  <outline>
+    <component base="vav-hb" xOffset="89"/>
+    <component base="dagesh-hb" xOffset="-5" yOffset="-26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>vav-hb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

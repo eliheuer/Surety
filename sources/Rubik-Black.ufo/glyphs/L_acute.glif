@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="626"/>
+  <unicode hex="0139"/>
+  <anchor x="313" y="0" name="bottom"/>
+  <anchor x="313" y="350" name="center"/>
+  <anchor x="243" y="920" name="top"/>
+  <anchor x="486" y="649" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="acutecomb.case" xOffset="-16"/>
+  </outline>
+</glyph>

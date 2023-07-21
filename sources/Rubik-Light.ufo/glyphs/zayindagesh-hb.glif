@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zayindagesh-hb" format="2">
+  <advance width="386"/>
+  <unicode hex="FB36"/>
+  <anchor x="177" y="0" name="bottom"/>
+  <anchor x="67" y="0" name="bottomleft"/>
+  <anchor x="73" y="260" name="center"/>
+  <anchor x="194" y="520" name="top"/>
+  <anchor x="67" y="520" name="topleft"/>
+  <outline>
+    <component base="zayin-hb"/>
+    <component base="dagesh-hb" xOffset="72" yOffset="-29"/>
+  </outline>
+</glyph>

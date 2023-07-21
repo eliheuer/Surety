@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafdagesh-hb" format="2">
+  <advance width="563"/>
+  <unicode hex="FB3B"/>
+  <anchor x="263" y="0" name="bottom"/>
+  <anchor x="59" y="0" name="bottomleft"/>
+  <anchor x="257" y="260" name="center"/>
+  <anchor x="257" y="520" name="top"/>
+  <anchor x="59" y="520" name="topleft"/>
+  <outline>
+    <component base="kaf-hb"/>
+    <component base="dagesh-hb" xOffset="256" yOffset="-29"/>
+  </outline>
+</glyph>

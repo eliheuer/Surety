@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nundagesh-hb" format="2">
+  <advance width="469"/>
+  <unicode hex="FB40"/>
+  <anchor x="235" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="109" y="260" name="center"/>
+  <anchor x="228" y="520" name="top"/>
+  <anchor x="20" y="520" name="topleft"/>
+  <outline>
+    <component base="nun-hb"/>
+    <component base="dagesh-hb" xOffset="51" yOffset="-26"/>
+  </outline>
+</glyph>

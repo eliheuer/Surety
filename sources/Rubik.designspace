@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="60" maximum="220" default="60">
+      <map input="60" output="300"/>
+      <map input="90" output="400"/>
+      <map input="125" output="500"/>
+      <map input="142" output="600"/>
+      <map input="160" output="700"/>
+      <map input="190" output="800"/>
+      <map input="220" output="900"/>
+    </axis>
+  </axes>
+  <rules>
+    <rule name="BRACKET.Weight_125_900">
+      <conditionset>
+        <condition name="Weight" minimum="125" maximum="900"/>
+      </conditionset>
+      <sub name="yen" with="yen.BRACKET.varAlt01"/>
+      <sub name="hryvnia" with="hryvnia.BRACKET.varAlt01"/>
+      <sub name="euro" with="euro.BRACKET.varAlt01"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="Rubik-Light.ufo" name="Rubik Light" familyname="Rubik" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="60"/>
+      </location>
+    </source>
+    <source filename="Rubik-Light.ufo" name="Rubik Light {160}" layer="{160}">
+      <location>
+        <dimension name="Weight" xvalue="160"/>
+      </location>
+    </source>
+    <source filename="Rubik-Black.ufo" name="Rubik Black" familyname="Rubik" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="220"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Rubik Light" familyname="Rubik" stylename="Light" filename="../instance_ufo/Rubik-Light.ufo" stylemapfamilyname="Rubik Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="60"/>
+      </location>
+    </instance>
+    <instance name="Rubik Regular" familyname="Rubik" stylename="Regular" filename="../instance_ufo/Rubik-Regular.ufo" stylemapfamilyname="Rubik" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="90"/>
+      </location>
+    </instance>
+    <instance name="Rubik Medium" familyname="Rubik" stylename="Medium" filename="../instance_ufo/Rubik-Medium.ufo" stylemapfamilyname="Rubik Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+      </location>
+    </instance>
+    <instance name="Rubik SemiBold" familyname="Rubik" stylename="SemiBold" filename="../instance_ufo/Rubik-SemiBold.ufo" stylemapfamilyname="Rubik SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="142"/>
+      </location>
+    </instance>
+    <instance name="Rubik Bold" familyname="Rubik" stylename="Bold" filename="../instance_ufo/Rubik-Bold.ufo" stylemapfamilyname="Rubik" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="160"/>
+      </location>
+    </instance>
+    <instance name="Rubik ExtraBold" familyname="Rubik" stylename="ExtraBold" filename="../instance_ufo/Rubik-ExtraBold.ufo" stylemapfamilyname="Rubik ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="190"/>
+      </location>
+    </instance>
+    <instance name="Rubik Black" familyname="Rubik" stylename="Black" filename="../instance_ufo/Rubik-Black.ufo" stylemapfamilyname="Rubik Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="220"/>
+      </location>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.fontlab.v2.tth</key>
+      <dict>
+        <key>stems</key>
+        <dict>
+          <key>X: 233</key>
+          <dict>
+            <key>horizontal</key>
+            <integer>0</integer>
+            <key>round</key>
+            <dict>
+              <key>0</key>
+              <integer>1</integer>
+              <key>11</key>
+              <integer>3</integer>
+              <key>15</key>
+              <integer>4</integer>
+              <key>19</key>
+              <integer>5</integer>
+              <key>24</key>
+              <integer>6</integer>
+              <key>8</key>
+              <integer>2</integer>
+            </dict>
+            <key>width</key>
+            <integer>233</integer>
+          </dict>
+          <key>X: 250</key>
+          <dict>
+            <key>horizontal</key>
+            <integer>0</integer>
+            <key>round</key>
+            <dict>
+              <key>0</key>
+              <integer>1</integer>
+              <key>11</key>
+              <integer>3</integer>
+              <key>15</key>
+              <integer>4</integer>
+              <key>19</key>
+              <integer>5</integer>
+              <key>22</key>
+              <integer>6</integer>
+              <key>8</key>
+              <integer>2</integer>
+            </dict>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+          <key>X: 79</key>
+          <dict>
+            <key>horizontal</key>
+            <integer>0</integer>
+            <key>round</key>
+            <dict>
+              <key>0</key>
+              <integer>1</integer>
+              <key>19</key>
+              <integer>2</integer>
+              <key>32</key>
+              <integer>3</integer>
+              <key>44</key>
+              <integer>4</integer>
+              <key>57</key>
+              <integer>5</integer>
+              <key>70</key>
+              <integer>6</integer>
+            </dict>
+            <key>width</key>
+            <integer>79</integer>
+          </dict>
+          <key>Y: 160</key>
+          <dict>
+            <key>horizontal</key>
+            <integer>1</integer>
+            <key>round</key>
+            <dict>
+              <key>0</key>
+              <integer>1</integer>
+              <key>10</key>
+              <integer>2</integer>
+              <key>15</key>
+              <integer>3</integer>
+              <key>20</key>
+              <integer>4</integer>
+              <key>29</key>
+              <integer>5</integer>
+              <key>35</key>
+              <integer>6</integer>
+            </dict>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+          <key>Y: 175</key>
+          <dict>
+            <key>horizontal</key>
+            <integer>1</integer>
+            <key>round</key>
+            <dict>
+              <key>0</key>
+              <integer>1</integer>
+              <key>15</key>
+              <integer>3</integer>
+              <key>20</key>
+              <integer>4</integer>
+              <key>25</key>
+              <integer>5</integer>
+              <key>32</key>
+              <integer>6</integer>
+              <key>8</key>
+              <integer>2</integer>
+            </dict>
+            <key>width</key>
+            <integer>175</integer>
+          </dict>
+          <key>Y: 195</key>
+          <dict>
+            <key>horizontal</key>
+            <integer>1</integer>
+            <key>round</key>
+            <dict>
+              <key>0</key>
+              <integer>1</integer>
+              <key>11</key>
+              <integer>3</integer>
+              <key>20</key>
+              <integer>4</integer>
+              <key>25</key>
+              <integer>5</integer>
+              <key>29</key>
+              <integer>6</integer>
+              <key>8</key>
+              <integer>2</integer>
+            </dict>
+            <key>width</key>
+            <integer>195</integer>
+          </dict>
+          <key>Y: 80</key>
+          <dict>
+            <key>horizontal</key>
+            <integer>1</integer>
+            <key>round</key>
+            <dict>
+              <key>0</key>
+              <integer>1</integer>
+              <key>19</key>
+              <integer>2</integer>
+              <key>32</key>
+              <integer>3</integer>
+              <key>44</key>
+              <integer>4</integer>
+              <key>57</key>
+              <integer>5</integer>
+              <key>69</key>
+              <integer>6</integer>
+            </dict>
+            <key>width</key>
+            <integer>80</integer>
+          </dict>
+        </dict>
+        <key>zones</key>
+        <dict>
+          <key>b: 0</key>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>top</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>10</integer>
+          </dict>
+          <key>b: 1</key>
+          <dict>
+            <key>position</key>
+            <string>-190</string>
+            <key>top</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+          <key>t: 0</key>
+          <dict>
+            <key>position</key>
+            <integer>520</integer>
+            <key>top</key>
+            <integer>1</integer>
+            <key>width</key>
+            <integer>10</integer>
+          </dict>
+          <key>t: 1</key>
+          <dict>
+            <key>position</key>
+            <integer>700</integer>
+            <key>top</key>
+            <integer>1</integer>
+            <key>width</key>
+            <integer>10</integer>
+          </dict>
+        </dict>
+      </dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>descender-cy</string>
+        <string>descender-cy.case</string>
+        <string>verticalbar-cy</string>
+        <string>verticalbar-cy.case</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

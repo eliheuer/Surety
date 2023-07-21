@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender-cy" format="2">
+  <advance width="527"/>
+  <unicode hex="04B7"/>
+  <anchor x="417" y="0" name="bottomright"/>
+  <anchor x="253" y="520" name="top"/>
+  <outline>
+    <component base="che-cy"/>
+    <component base="descender-cy" xOffset="386"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daletdagesh-hb" format="2">
+  <advance width="559"/>
+  <unicode hex="FB33"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="31" y="0" name="bottomleft"/>
+  <anchor x="133" y="260" name="center"/>
+  <anchor x="285" y="520" name="top"/>
+  <anchor x="31" y="520" name="topleft"/>
+  <outline>
+    <component base="dalet-hb"/>
+    <component base="dagesh-hb" xOffset="75" yOffset="-26"/>
+  </outline>
+</glyph>

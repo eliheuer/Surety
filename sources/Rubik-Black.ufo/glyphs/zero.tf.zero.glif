@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tf.zero" format="2">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="261" y="41" type="line"/>
+      <point x="503" y="620" type="line"/>
+      <point x="448" y="653" type="line"/>
+      <point x="205" y="72" type="line"/>
+    </contour>
+    <component base="zero.tf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

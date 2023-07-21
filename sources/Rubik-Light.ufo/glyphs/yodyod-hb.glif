@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yodyod-hb" format="2">
+  <advance width="426"/>
+  <unicode hex="05F2"/>
+  <anchor x="320" y="0" name="bottom_1"/>
+  <anchor x="107" y="0" name="bottom_2"/>
+  <anchor x="233" y="0" name="bottomleft_1"/>
+  <anchor x="20" y="0" name="bottomleft_2"/>
+  <anchor x="230" y="260" name="center_1"/>
+  <anchor x="17" y="260" name="center_2"/>
+  <anchor x="320" y="520" name="top_1"/>
+  <anchor x="107" y="520" name="top_2"/>
+  <anchor x="233" y="520" name="topleft_1"/>
+  <anchor x="20" y="520" name="topleft_2"/>
+  <outline>
+    <component base="yod-hb" xOffset="213"/>
+    <component base="yod-hb"/>
+  </outline>
+</glyph>

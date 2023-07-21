@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reshdagesh-hb" format="2">
+  <advance width="534"/>
+  <unicode hex="FB48"/>
+  <anchor x="424" y="0" name="bottom"/>
+  <anchor x="66" y="0" name="bottomleft"/>
+  <anchor x="248" y="260" name="center"/>
+  <anchor x="291" y="520" name="top"/>
+  <anchor x="66" y="520" name="topleft"/>
+  <outline>
+    <component base="resh-hb"/>
+    <component base="dagesh-hb" xOffset="247" yOffset="-29"/>
+  </outline>
+</glyph>

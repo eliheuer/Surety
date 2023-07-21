@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefpatah-hb" format="2">
+  <advance width="568"/>
+  <unicode hex="FB2E"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="25" y="0" name="bottomleft"/>
+  <anchor x="229" y="142" name="center"/>
+  <anchor x="287" y="520" name="top"/>
+  <anchor x="25" y="520" name="topleft"/>
+  <outline>
+    <component base="alef-hb"/>
+    <component base="patah-hb" xOffset="285" yOffset="5"/>
+  </outline>
+</glyph>

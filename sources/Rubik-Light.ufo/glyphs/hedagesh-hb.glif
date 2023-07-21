@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hedagesh-hb" format="2">
+  <advance width="608"/>
+  <unicode hex="FB34"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="304" y="260" name="center"/>
+  <anchor x="304" y="520" name="top"/>
+  <anchor x="20" y="520" name="topleft"/>
+  <outline>
+    <component base="he-hb"/>
+    <component base="dagesh-hb" xOffset="303" yOffset="-29"/>
+  </outline>
+</glyph>

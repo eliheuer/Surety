@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="memdagesh-hb" format="2">
+  <advance width="720"/>
+  <unicode hex="FB3E"/>
+  <anchor x="360" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="386" y="230" name="center"/>
+  <anchor x="360" y="520" name="top"/>
+  <anchor x="20" y="520" name="topleft"/>
+  <outline>
+    <component base="mem-hb"/>
+    <component base="dagesh-hb" xOffset="328" yOffset="-56"/>
+  </outline>
+</glyph>
